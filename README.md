@@ -23,7 +23,7 @@ OGsbot is a **lightweight**, **easy-to-use** Fortnite bot that lets you join bot
 | 💾 RAM          | 25 MB                           | 50 MB+                   |
 | 🧠 CPU          | 1 Core                          | 1 Cores+                 |
 | 🌐 Internet     | Basic connection                | Basic connection         |
-
+| packages        | nodeJS                           | nodeJS                   |
 
 
 ---
