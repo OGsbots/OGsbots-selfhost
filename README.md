@@ -10,7 +10,7 @@ OGsbot is a **lightweight**, **easy-to-use** Fortnite bot that lets you join bot
 
 - ✅ Join Fortnite bot lobbies
 - 🎭 Use custom skins, emotes & cosmetics
-- 💻 Fully self-hosted (no installs required)
+- 💻 Fully self-hosted
 - ⚡ Low memory usage (under 50MB)
   
 
