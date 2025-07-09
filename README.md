@@ -32,7 +32,7 @@ OGsbot is a **lightweight**, **easy-to-use** Fortnite bot that lets you join bot
 
 ###  Step 1: install nodeJS
 
-1. go to ()
+1. go to (https://nodejs.org/en)
 2. press install
 3. close it after install
 
